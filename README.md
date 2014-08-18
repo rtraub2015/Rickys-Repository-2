@@ -1,4 +1,4 @@
-Date,liquidity
+date,liquidity
 01/10/2004,28
 01/17/2004,46
 01/24/2004,48
